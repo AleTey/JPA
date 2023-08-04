@@ -1,0 +1,8 @@
+com\mycompany\pruebajpa3\Persistencia\AlumnoJpaController.class
+com\mycompany\pruebajpa3\Persistencia\ControladoraPersistencia.class
+com\mycompany\pruebajpa3\Persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\pruebajpa3\Logica\Alumno_.class
+com\mycompany\pruebajpa3\PruebaJPA3.class
+com\mycompany\pruebajpa3\Persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\pruebajpa3\Persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\pruebajpa3\Logica\Alumno.class

@@ -1,0 +1,15 @@
+com\mycompany\jpax\Persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\jpax\Persistencia\MateriaJpaController.class
+com\mycompany\jpax\Logica\Carrera.class
+com\mycompany\jpax\Logica\Materia_.class
+com\mycompany\jpax\Logica\Materia.class
+com\mycompany\jpax\JPAX.class
+com\mycompany\jpax\Persistencia\AlumnoJpaController.class
+com\mycompany\jpax\Persistencia\CarreraJpaController.class
+com\mycompany\jpax\Logica\ControladoraLogica.class
+com\mycompany\jpax\Persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\jpax\Logica\Carrera_.class
+com\mycompany\jpax\Persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\jpax\Logica\Alumno.class
+com\mycompany\jpax\Logica\Alumno_.class
+com\mycompany\jpax\Persistencia\ControladoraPersistencia.class
